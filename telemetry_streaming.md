@@ -22,7 +22,7 @@ https://(bigip hostname or ip)/mgmt/shared/telemetry/declare
     },
     "controls": {
      "class": "Controls",
-     "logLevel": "debug",
+     "logLevel": "info",
      "memoryThresholdPercent": 65
      }
 }
