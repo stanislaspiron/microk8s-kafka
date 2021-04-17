@@ -1,7 +1,7 @@
 # Telemetry Streaming
 
 Post following declaration to : 
-https://<bigip hostname or ip>/mgmt/shared/telemetry/declare
+https://(bigip hostname or ip)/mgmt/shared/telemetry/declare
 
 ```
 {
